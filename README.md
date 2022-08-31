@@ -6,7 +6,7 @@ Command to install Theharvester: - <br />
   				“sudo apt install theharvester” <br />
 Or
 # How to run?
-git clone  <br />
+git clone https://github.com/bittukr-2903/theHarvester.git <br />
 cd  theharvester <br />
 ls <br />
 pip install requirement.txt  <br />
@@ -22,3 +22,6 @@ example: -  theharvester -d myuniversity -l 500 -b google
 ![Screenshot_2022-08-30_22_18_12](https://user-images.githubusercontent.com/83575385/187580521-bea93296-82ba-4eff-909b-c2358d7331f1.png)
 
 
+
+
+# DROP A STAR IF YOU FIND THIS SUITABLE.
